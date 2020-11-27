@@ -4,7 +4,7 @@
   <title><![CDATA[Kavin-Tech]]></title>
   <link href="http://kavin-tech.github.io/atom.xml" rel="self"/>
   <link href="http://kavin-tech.github.io/"/>
-  <updated>2020-11-27T23:13:29+05:30</updated>
+  <updated>2020-11-27T23:54:51+05:30</updated>
   <id>http://kavin-tech.github.io/</id>
   <author>
     <name><![CDATA[Kavinkumar]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nivar Experience]]></title>
+    <link href="http://kavin-tech.github.io/blog/2020/11/27/nivar-experience/"/>
+    <updated>2020-11-27T23:46:14+05:30</updated>
+    <id>http://kavin-tech.github.io/blog/2020/11/27/nivar-experience</id>
+    <content type="html"><![CDATA[<p>When <strong>Nivar</strong> was announced,I was in Chennai enjoying my Covid Days with my cousin sisters</p>
+
+<p>At that time all over Chennai was affected by Nivar Cyclone but our area was secured and less affected Infact even we went to Thalapakatti near Selaiyur to feast our Stomach</p>
+
+<p>Though we had few interuptions with wi-fi connections and power outages,we never stopped having fun</p>
+
+<p>We changed our home as Theatre and Watched <code>SooraraiPottru</code> in OTT</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Birla Planitorium - Planning]]></title>
@@ -27,17 +42,17 @@
     <link href="http://kavin-tech.github.io/blog/2020/11/27/shuttle-gaming-strategies/"/>
     <updated>2020-11-27T20:14:19+05:30</updated>
     <id>http://kavin-tech.github.io/blog/2020/11/27/shuttle-gaming-strategies</id>
-    <content type="html"><![CDATA[<p>I love shuttling everyday</p>
+    <content type="html"><![CDATA[<p><strong>I love shuttling everyday</strong></p>
 
-<p>Loving the game</p>
+<ul>
+<li><p>Loving the game</p></li>
+<li><p>Learned to play without getting injured</p></li>
+<li><p>This game has taught me a lot of things in <code>life</code></p></li>
+<li><p>I play everyday to get trained to the next level</p></li>
+</ul>
 
-<p>Learned to play without getting injured</p>
 
-<p>This game has taught me a lot of things in life</p>
-
-<p>I play everyday to get trained to the next level</p>
-
-<p>That game is so fun! :joy:</p>
+<blockquote><p>This game is so fun!</p></blockquote>
 
 <p><img src="http://kavin-tech.github.io/images/shuttle_bat.jpg" title="The bat I roll with" alt="My Bat!" /></p>
 ]]></content>
