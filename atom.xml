@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://kavin-tech.github.io/atom.xml" rel="self"/>
+  <link href="http://kavin-tech.github.io/"/>
+  <updated>2020-11-27T19:29:29+05:30</updated>
+  <id>http://kavin-tech.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Shuttle Game Strategies]]></title>
+    <link href="http://kavin-tech.github.io/blog/2020/11/27/shuttle-game-strategies/"/>
+    <updated>2020-11-27T19:20:43+05:30</updated>
+    <id>http://kavin-tech.github.io/blog/2020/11/27/shuttle-game-strategies</id>
+    <content type="html"><![CDATA[<p>My Favourite Game Is Shuttle</p>
+
+<p>I Love Shuttle</p>
+
+<p>I Play Shuttle Everyday</p>
+
+<p>I Play With My Friends</p>
+]]></content>
+  </entry>
+  
+</feed>
