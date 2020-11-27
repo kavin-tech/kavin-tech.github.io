@@ -4,7 +4,7 @@
   <title><![CDATA[Kavin-Tech]]></title>
   <link href="http://kavin-tech.github.io/atom.xml" rel="self"/>
   <link href="http://kavin-tech.github.io/"/>
-  <updated>2020-11-27T22:51:45+05:30</updated>
+  <updated>2020-11-27T23:07:57+05:30</updated>
   <id>http://kavin-tech.github.io/</id>
   <author>
     <name><![CDATA[Kavinkumar]]></name>
@@ -37,7 +37,7 @@
 
 <p>I play everyday to get trained to the next level</p>
 
-<p><img src="http://kavin-tech.github.io/images/shuttle_bat.jpg" alt="My Bat" /></p>
+<p><img src="http://kavin-tech.github.io/images/shuttle_bat.jpg" title="The bat I roll with" alt="My Bat!" /></p>
 ]]></content>
   </entry>
   
