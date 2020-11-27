@@ -4,7 +4,7 @@
   <title><![CDATA[Kavin-Tech]]></title>
   <link href="http://kavin-tech.github.io/atom.xml" rel="self"/>
   <link href="http://kavin-tech.github.io/"/>
-  <updated>2020-11-27T20:42:18+05:30</updated>
+  <updated>2020-11-27T22:34:57+05:30</updated>
   <id>http://kavin-tech.github.io/</id>
   <author>
     <name><![CDATA[Kavinkumar]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Birla Planitorium - Planning]]></title>
+    <link href="http://kavin-tech.github.io/blog/2020/11/27/birla-planitorium-planning/"/>
+    <updated>2020-11-27T22:34:12+05:30</updated>
+    <id>http://kavin-tech.github.io/blog/2020/11/27/birla-planitorium-planning</id>
+    <content type="html"><![CDATA[<p>Planning to visit planitorium tomorrow</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Shuttle Gaming Strategies]]></title>
